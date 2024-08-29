@@ -5,5 +5,6 @@
 CARDINFO{driver}=="rockchip_rt5616", INCLUDE="rt5616", GOTO="init_end"
 CARDINFO{driver}=="rockchip_rt5640", INCLUDE="rt5640", GOTO="init_end"
 CARDINFO{driver}=="realtek_rt5651-", INCLUDE="rt5651", GOTO="init_end"
+CARDINFO{driver}=="rockchip-rk730", INCLUDE="rk730", GOTO="init_end"
 CARDINFO{driver}=="rockchip_rk809-", INCLUDE="rk809", GOTO="init_end"
 CARDINFO{driver}=="rockchip-es8388", INCLUDE="es8388", GOTO="init_end"

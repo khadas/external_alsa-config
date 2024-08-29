@@ -1,0 +1,9 @@
+# Configuration for rk730 driver
+
+#playback
+CTL{reset}="mixer"
+CTL{name}="OUT1 Switch", CTL{value}="ON"
+CTL{name}="OUT2 Switch", CTL{value}="ON"
+
+RESULT="true", EXIT="return"
+
